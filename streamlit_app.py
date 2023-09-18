@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import requests
 
-server_url = os.environ["project_1_url"]
+server_url = os.environ["url"]
 
 # App information and setup
 project_title = "Test Project 2"
